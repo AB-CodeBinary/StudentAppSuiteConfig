@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+studenttracker:
+  message: "Welcome to ABs Studenttracker related PROD APIs "
+  contactDetails:
+    name: "AB - Developer"
+    email: "goku@dbz.com"
+  onCallSupport:
+    - (555) 555-1231
+    - (555) 523-1342

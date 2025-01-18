@@ -1,0 +1,11 @@
+build:
+  version: "0.0"
+
+studenttracker:
+  message: "Welcome to ABs Studenttracker related PROD APIs "
+  contactDetails:
+    name: "Wies - Developer"
+    email: "Wies@dbz.com"
+  onCallSupport:
+    - (555) 555-1231
+    - (555) 523-1342
